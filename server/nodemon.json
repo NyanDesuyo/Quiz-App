@@ -1,0 +1,4 @@
+{
+  "verboase": true,
+  "ignore": ["database.json"]
+}
